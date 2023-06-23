@@ -1,8 +1,8 @@
-.calculadora{
+calculadora{
     display:block;
     margin:0 auto;
     padding:20px;
-    background-color:blueviolet;
+    background-color: rgb(51, 57, 255);
     width:300px;
     height:500px;
     border-radius: 25px;
